@@ -1,0 +1,15 @@
+.Header-top {
+  background-color: #c06c84;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-size: 60px;
+  color: white;
+}
+
+img {
+  height: 60px;
+}
